@@ -6,3 +6,13 @@ The directory <b><i>"html"</i></b> is important to place static web pages that w
 
 <p><b>Static HTML files</b></p>
 Inside the folder html you can place your static html/ javascript files. For an advanced webserver we should use templates.
+
+<p><b>Default homepage</b></p>
+
+```javascript
+var options = {
+  index: "index.html"
+};
+```
+
+Change the index var with your static homepage file.
