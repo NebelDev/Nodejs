@@ -5,4 +5,4 @@ You can change the listening port editing the line <b><i>"app.listen(process.env
 The directory <b><i>"html"</i></b> is important to place static web pages that won't be process as script page.<br>
 
 <p><b>Static HTML files</b></p>
-Inside the forlde html you can place your static html/ javascript files. For an advanced webserver we should use templates.
+Inside the folder html you can place your static html/ javascript files. For an advanced webserver we should use templates.
